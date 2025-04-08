@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Input/Actions/IA_Charge.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Input/Actions/IA_Release.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/WB_ChargeBar.uasset"
+			]
+		}
+	]
+}
