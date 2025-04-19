@@ -1,3 +1,2 @@
-2025/04/14-15:46:18.695 379c Reusing MANIFEST C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/04/14-15:46:18.696 379c Recovering log #3
-2025/04/14-15:46:18.696 379c Reusing old log C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/04/19-16:09:09.682 6a94 Creating DB C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/04/19-16:09:09.694 6a94 Reusing MANIFEST C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
