@@ -1,2 +1,3 @@
-2025/04/19-16:09:09.682 6a94 Creating DB C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/04/19-16:09:09.694 6a94 Reusing MANIFEST C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/21-17:57:18.669 5728 Reusing MANIFEST C:/Users/krife/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/21-17:57:18.671 5728 Recovering log #3
+2025/04/21-17:57:18.671 5728 Reusing old log C:/Users/krife/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
