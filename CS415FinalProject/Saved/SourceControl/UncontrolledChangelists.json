@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/krife/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/LevelPrototyping/Levels/Stage_1.umap",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_SpeedIncrease.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_LeapCDDecrease.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_LeapChargeIncrease.uasset",
