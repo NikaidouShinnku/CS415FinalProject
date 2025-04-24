@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_Arrow.uasset",
-				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Anim/ABP_ArcherAnim.uasset",
-				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Texture_and_mesh/Backward.uasset",
-				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Texture_and_mesh/Running_Backward.uasset",
-				"C:/Users/krife/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/LevelPrototyping/Levels/Stage_1.umap",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_SpeedIncrease.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_LeapCDDecrease.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_LeapChargeIncrease.uasset",
@@ -20,7 +14,23 @@
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QV/1OTIR8LMRBJCBHQ43O207S.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/V0/4CB8TKOKEQUZQ2A48F9F3P.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/25/MMSS7FDV5QOJFC8Y77VD1W.uasset",
-				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/14/SCGJU94OQCF8SOV1B9VCLP.uasset"
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/14/SCGJU94OQCF8SOV1B9VCLP.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_HPIncrease.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/StarterContent/Materials/M_WhiteShine.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/StarterContent/Materials/M_GreenShine.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/StarterContent/Materials/M_RedShine.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/WB_ItemList.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/StarterContent/Materials/M_PurpleShine.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_ArrowRainCDDecrease.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/StarterContent/Materials/M_Ground_MossShine.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TP/Y8CHTIGHLZDDULAMFG1Y8Q.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MT/5Q2BM2GDMLRQSU07AY7VH7.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_Arrow.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Anim/ABP_ArcherAnim.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Texture_and_mesh/Backward.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Texture_and_mesh/Running_Backward.uasset",
+				"C:/Users/krife/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/LevelPrototyping/Levels/Stage_1.umap"
 			]
 		}
 	]
