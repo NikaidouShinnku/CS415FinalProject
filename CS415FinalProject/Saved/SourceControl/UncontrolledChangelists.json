@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_Arrow.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Anim/ABP_ArcherAnim.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Texture_and_mesh/Backward.uasset",
+				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/Characters/Archer/Texture_and_mesh/Running_Backward.uasset",
 				"C:/Users/krife/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/LevelPrototyping/Levels/Stage_1.umap",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_SpeedIncrease.uasset",
 				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/Items/BP_LeapCDDecrease.uasset",
