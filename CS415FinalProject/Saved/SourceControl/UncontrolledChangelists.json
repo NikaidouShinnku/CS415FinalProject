@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_SkeletonEnemy.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_MutantEnemy.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/WB_SkillUI.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/00/SJ7TZEP9P3TR1MRGJ9D2WC.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IK/93RMR0WT25R2T7QFBYKW6O.uasset",
+				"C:/Users/match/Documents/Unreal Projects/CS415FinalProject/CS415FinalProject/Content/UI/coin.uasset",
 				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_Arrow.uasset",
 				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/BP_SpellProjectile3.uasset",
 				"C:/Users/Kelthuzad/Documents/GitHub/CS415FinalProject/CS415FinalProject/Content/ThirdPerson/Blueprints/WB_SkillUI.uasset",
